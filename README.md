@@ -1,4 +1,4 @@
-# awesome-distributed-systems
+# awesome-distributed-systems [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/vietle2201/awesome-distributed-systems)
 
 A (hopefully) curated list on awesome material on distributed systems, inspired by
 other awesome frameworks like [awesome-python](https://github.com/vinta/awesome-python).
